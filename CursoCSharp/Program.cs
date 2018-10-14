@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
+using CursoCSharp.EstruturasDeControle;
 
 namespace CursoCSharp {
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
-                {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
+				//Fundamentals
+				{"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
 				{"Comentarios - Fundamentos", Comentarios.Executar},
 				{"Variaveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
 				{"Inferencia - Fundamentos", Inferencia.Executar},
@@ -22,6 +24,8 @@ namespace CursoCSharp {
 				{"Operadores Atribuição - Fundamentos", OperadoresAtribuicao.Executar},
 				{"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
 				{"Operadores Ternários - Fundamentos", OperadoresTernarios.Executar},
+				//Control Structure
+				{ "Estrutura If - Estrutura de Controle", EstruturaIf.Executar},
 			});
 
             central.SelecionarEExecutar();

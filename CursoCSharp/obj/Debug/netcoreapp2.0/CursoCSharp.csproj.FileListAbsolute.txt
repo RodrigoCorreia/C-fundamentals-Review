@@ -3,9 +3,9 @@ C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcorea
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.dev.json
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.dll
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.pdb
-C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojResolveAssemblyReference.cache
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
 C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+C:\Users\Rodrigo Correia\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojAssemblyReference.cache
